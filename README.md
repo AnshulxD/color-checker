@@ -1,6 +1,16 @@
-# color-checker
-check color using haxcode
+# Color Checker
+
+Color Chekcer Using Hax Code
 
 
 
-Live Link - https://hungry-ramanujan-379de8.netlify.app/
+
+
+## Demo
+
+https://hungry-ramanujan-379de8.netlify.app/
+
+
+## Authors
+
+- [@AnshulXD](https://www.github.com/anshulxd)
