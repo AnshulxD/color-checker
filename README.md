@@ -1,6 +1,6 @@
 # Color Checker
 
-Color Chekcer Using Hax Code
+Color Checker Using Hex Code
 
 
 
